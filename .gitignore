@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# APIキーなどが記載された設定ファイルを誤ってアップしないための保険
+  .env
+  secrets.toml
